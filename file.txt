@@ -1,1 +1,2 @@
-We have different content in 2 files now.
+
+Let's change the content of this file.
